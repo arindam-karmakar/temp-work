@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1057534026310",
+    "project_id": "cdl-prep-app",
+    "storage_bucket": "cdl-prep-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057534026310:android:6c49acd3c88827cd882047",
+        "android_client_info": {
+          "package_name": "com.cdlprep.cdl_prep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057534026310-ir5vncr2vpp91tn394m8u0u7c4sb1t6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3cNzw9UWxn7bO7_85eDa3gDxv2GAYUas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057534026310-ir5vncr2vpp91tn394m8u0u7c4sb1t6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057534026310-nunrv7i25a2rnlv98ov8icrv9a54i8i6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cdlprep.cdlPrep",
+                "app_store_id": "1579913641"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
